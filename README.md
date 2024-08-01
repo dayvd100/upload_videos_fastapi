@@ -2,11 +2,15 @@
 
 ## In this API you can upload files and add a description
 
-### this is a cool api that you can upload and watch the videos with description
+## this is a cool api that you can upload and watch the videos with description
+
+## In this project i used
+
+- ###
 
 ## How can you run it?
 
-- `python -m venv venv`
-- `. venv/bin/activate`
-- `pip install -r requirements.txt`
-- '''`python main.py`'''
+- ### `python -m venv venv`
+- ### `. venv/bin/activate`
+- ### `pip install -r requirements.txt`
+- ### `python main.py`
